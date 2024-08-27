@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# Edge Delivery Service Demo Project
+Tech Academy Demo Site
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--edge--cpilsworth.hlx.page/
+- Live: https://main--edge--cpilsworth.hlx.live/
 
 ## Installation
 
